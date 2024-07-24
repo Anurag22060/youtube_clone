@@ -4,5 +4,5 @@ Discover a new era of video-sharing with our React-based YouTube clone. This pro
 <br>
 View Project Here :-https://pineartistry-youtube-clone.netlify.app/
 
-<img src="<img src="https://path/to/your/image.jpg" alt="Alt text" />" alt="youtube" />
+<img src="https://github.com/Anurag22060/youtube_clone/blob/master/src/Images/Youtube_clone.png?raw=true" alt="youtube" />
 
